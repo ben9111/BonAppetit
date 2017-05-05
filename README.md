@@ -9,7 +9,7 @@ This application is social so if you add Resturant or photo everyone can see.
 * Design patten: Singleton & Obserever & MVC
 * Database: Firebase db and SQLITE (relational db)
 
-![screen2](http://imageshack.com/a/img923/1538/GKoC1D.png)   <br><br>   ![screen1](http://imageshack.com/a/img924/993/z7cO9f.png)
+![screen2](http://imageshack.com/a/img923/1538/GKoC1D.png) ![screen1](http://imageshack.com/a/img924/993/z7cO9f.png)
 
 ![screen](http://imageshack.com/a/img924/1294/HwY0Om.png)
 
